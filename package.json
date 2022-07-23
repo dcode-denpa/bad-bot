@@ -18,7 +18,7 @@
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.26.1",
     "chalk": "^5.0.1",
-    "file-type": "^16.5.1",
+    "file-type": "^16.5.4",
     "fluent-ffmpeg": "^2.1.2",
     "jimp": "^0.16.1",
     "moment-timezone": "^0.5.33",
